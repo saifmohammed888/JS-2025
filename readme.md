@@ -5,16 +5,6 @@
 - [Data Types](#datatypes)
 
 ## Variables
-
--
-
 ## DataTypes
-
--
-
-````
-Sample Code
-
-````
 
 Copyright 2025 by @saifmohammed888
